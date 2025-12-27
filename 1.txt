@@ -1,2 +1,2 @@
 hello its my git command 
-
+addding new lines in 1.txt
